@@ -25,7 +25,7 @@ $ grunt
 
 ## API
 
-[Documentation](https://evanlucas.github.io/node-launchd.plist)
+[Documentation](http://evanlucas.github.io/node-launchd.plist)
 
 ## License
 
