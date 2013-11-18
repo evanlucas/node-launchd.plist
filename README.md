@@ -2,6 +2,9 @@
 
 Provides an easier way to create launchd plists in node
 
+[![Build Status](https://travis-ci.org/evanlucas/node-launchd.plist.png?branch=master)](https://travis-ci.org/evanlucas/node-launchd.plist)
+
+
 ## Install
 
 ```bash
