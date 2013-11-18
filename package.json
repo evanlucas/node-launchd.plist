@@ -1,0 +1,38 @@
+{
+  "name": "launchd.plist",
+  "version": "0.0.1",
+  "description": "Makes building launchd plists easier",
+  "main": "lib/index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "plist": "~0.4.3"
+  },
+  "devDependencies": {
+    "grunt-modverify": "0.0.4",
+    "grunt-cafe-mocha": "~0.1.9",
+    "grunt": "~0.4.1",
+    "should": "~2.1.0",
+    "dox": "~0.4.4"
+  },
+  "scripts": {
+    "test": "grunt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/evanlucas/node-launchd.plist"
+  },
+  "keywords": [
+    "launchd",
+    "launchctl",
+    "plist",
+    "mac"
+  ],
+  "author": "Evan Lucas <evanlucas@me.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/evanlucas/node-launchd.plist/issues"
+  },
+  "homepage": "https://github.com/evanlucas/node-launchd.plist"
+}
