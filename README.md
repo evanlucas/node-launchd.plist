@@ -10,6 +10,12 @@ $ npm install launchd.plist
 
 ## Test
 
+Requires grunt
+
+```bash
+$ npm install -g grunt-cli
+```
+
 ```bash
 $ grunt
 ```
